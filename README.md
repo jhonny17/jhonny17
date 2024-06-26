@@ -1,6 +1,6 @@
 # Hi there, I'm Jhonny 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating efficient and innovative solutions. Here are some of my projects and contributions to the open-source community.
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating efficient and innovative solutions. Here are some of my projects and contributions.
 
 ## 🚀 Skills and Technologies
 
