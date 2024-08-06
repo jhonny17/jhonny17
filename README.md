@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating efficient and innovative solutions. Here are some of my projects and contributions.
 
-## 🚀 Skills and Technologies
+<!--## 🚀 Skills and Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 
 ## Connect with Me
 
